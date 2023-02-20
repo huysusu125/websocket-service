@@ -1,5 +1,5 @@
 server:
-  port: ${WEBSOCKET_SVC_PORT:9092}
+  port: 9292
   http2:
     enabled: true
 spring:
